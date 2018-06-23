@@ -1,0 +1,9 @@
+{
+  "name": "just-try",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "http://minooo.github.io/just-try",
+  "repository": "git@github.com:minooo/just-try.git",
+  "author": "minooo <552594996@qq.com>",
+  "license": "MIT"
+}
